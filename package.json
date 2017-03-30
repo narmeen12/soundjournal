@@ -9,19 +9,8 @@
     "dev": "webpack -d --watch",
     "build": "webpack -p"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Recursion-Rhinos/rhino-music.git"
-  },
-  "keywords": [
-    "Music"
-  ],
   "author": "Narmin Shahin",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Recursion-Rhinos/rhino-music/issues"
-  },
-  "homepage": "https://github.com/Recursion-Rhinos/rhino-music#readme",
   "devDependencies": {
     "chai": "^3.5.0",
     "chai-jquery": "^2.0.0",
