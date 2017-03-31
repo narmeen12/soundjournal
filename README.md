@@ -9,4 +9,4 @@ Once you are in the folder, you can start the app with
 
 Then head over to localhost:3001 in your browser. :)
 
-"""NOTE: My npm modules are included in here so a direct download will take a few minutes~!"""
+**NOTE: My npm modules are included in here so a direct download will take a few minutes~!**
