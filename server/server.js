@@ -23,10 +23,6 @@ app.set('view engine', 'ejs');
 app.use(flash());
 
 
-app.get('/', function(req, res) {  
-  res.send("BUTTS")
-});
-
 app.use('/', router);
 
 const port = process.env.PORT || 3001;
